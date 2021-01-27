@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_shakespeare">
+
+    <fragment
+        android:id="@+id/nav_shakespeare"
+        android:name="com.odukle.funtranslations.ui.shakespeare.ShakespeareFragment"
+        android:label="Shakespeare"
+        tools:layout="@layout/fragment_shakespeare" />
+
+    <fragment
+        android:id="@+id/nav_yoda"
+        android:name="com.odukle.funtranslations.ui.yoda.YodaFragment"
+        android:label="Yoda"
+        tools:layout="@layout/fragment_yoda" />
+
+    <fragment
+        android:id="@+id/nav_dothraki"
+        android:name="com.odukle.funtranslations.ui.dothraki.DothrakiFragment"
+        android:label="Dothraki"
+        tools:layout="@layout/fragment_dothraki" />
+
+    <fragment
+        android:id="@+id/nav_valyrian"
+        android:name="com.odukle.funtranslations.ui.valyrian.ValyrianFragment"
+        android:label="Valyrian"
+        tools:layout="@layout/fragment_valyrian" />
+
+    <fragment
+        android:id="@+id/nav_hodor"
+        android:name="com.odukle.funtranslations.ui.hodor.HodorFragment"
+        android:label="Hodor"
+        tools:layout="@layout/hodor_fragment" />
+
+    <fragment
+        android:id="@+id/nav_wakandan"
+        android:name="com.odukle.funtranslations.ui.wakandan.WakandanFragment"
+        android:label="Wakandan"
+        tools:layout="@layout/wakandan_fragment" />
+
+    <fragment
+        android:id="@+id/nav_minion"
+        android:name="com.odukle.funtranslations.ui.minion.MinionFragment"
+        android:label="Minion"
+        tools:layout="@layout/minion_fragment" />
+
+    <fragment
+        android:id="@+id/nav_avatar"
+        android:name="com.odukle.funtranslations.ui.avatar.AvatarFragment"
+        android:label="Avatar Navi"
+        tools:layout="@layout/avatar_fragment" />
+</navigation>

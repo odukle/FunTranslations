@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fun Translations</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="shake_str">Shakespeare invented many words and his style of narration in many ways was unique to his time. His ever popular works ( dramas and poems ) makes his language style live even today. This translator takes English as input and converts to Shakespeare English.</string>
+    <string name="yoda_str">Yoda often orders sentences as Object-Subject-Verb, split verbs, switches entire phrases and sometimes uses sentences that are different from his normal syntax! Because of this it is difficult to accurately represent his sentence structure. Have fun and may the force be with you! Yoda is a registered trademark of Disney.</string>
+    <string name="dothraki_str">The Dothraki language is a constructed fictional language in George R. R. Martin\'s fantasy novel series A Song of Ice and Fire and its television adaptation Game of Thrones, where it is spoken by the Dothraki, the indigenous inhabitants of the Dothraki Sea. The language was developed for the TV series by the linguist David J. Peterson based on the Dothraki words and phrases in Martin\'s novels.</string>
+    <string name="valyrian_str">The Valyrian languages are a fictional language family in the A Song of Ice and Fire series of fantasy novels by George R. R. Martin, and in their television adaptation Game of Thrones. For the TV series, linguist David J. Peterson created the High Valyrian language, as well as the derivative language Astapori Valyrian, based on the fragments given in the novels.</string>
+    <string name="hodor_str">Hodor, originally named Wylis, was a simpleminded servant of House Stark at Winterfell working in the stables. He speaks nothing but hodor.</string>
+    <string name="wakanda_str">Wakanda is a fictional country located in Sub-Saharan Africa created by Marvel Comics. It is home to the superhero Black Panther. This Wankandan translator translates the alphabet to Wakandan looking alphabets. Images and other items may be copyrighted and property of Marvel Comics. \n\nThis translator works based on custom fonts served from the internet (@font-face). When you copy and paste unless you have the font installed locally on your system, it won\'t look the same. You can use the image for sharing which will look the same regardless.</string>
+    <string name="minion_str">This language is spoken by the minions in Despicable Me. The language is actually lots of languages. Yi kai yai yai bananna! Minion is a registered trademark of Universal Studios.</string>
+    <string name="navi_str">Na\'vi is a constructed language spoken by the Na\'vi people in the fictional world Pandora in James Cameron\'s blockbuster movie Avatar.</string>
+</resources>

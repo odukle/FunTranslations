@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shakespeare"
+            android:title="Shakespeare translator" />
+        <item
+            android:id="@+id/nav_yoda"
+            android:title="Yoda translator" />
+        <item
+            android:id="@+id/nav_dothraki"
+            android:title="Dothraki translator" />
+        <item
+            android:id="@+id/nav_valyrian"
+            android:title="Valyrian translator" />
+        <item
+            android:id="@+id/nav_hodor"
+            android:title="Hodor translator" />
+        <item
+            android:id="@+id/nav_wakandan"
+            android:title="Wakandan translator" />
+        <item
+            android:id="@+id/nav_minion"
+            android:title="Minion translator" />
+        <item
+            android:id="@+id/nav_avatar"
+            android:title="Avatar Navi translator" />
+    </group>
+
+
+</menu>
